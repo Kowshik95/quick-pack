@@ -1,0 +1,18 @@
+{
+    "watchExtensions": [
+      "css",
+      "cur",
+      "gif",
+      "ico",
+      "jpg",
+      "js",
+      "jsp",
+      "png",
+      "txt",
+      "xml"
+    ],
+    "browserList": [
+      "last 3 versions",
+      "> 15%"
+    ]
+  }
